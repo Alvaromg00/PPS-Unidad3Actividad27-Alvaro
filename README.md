@@ -32,4 +32,20 @@ Ahora comprobamos si la firma de la aplicación es válida en la página web de 
 
 ![pivaa.apk](Imagenes/4.png)
 
-Nos indica que la firma no es váida y que no recomiendan instalarla.
+Nos indica que la firma no es válida y que no recomiendan instalarla.
+
+Levantamos una máquina docker con MobSF:
+
+![pivaa.apk](Imagenes/5.png)
+
+Accedemos desde el navegador con la credenciales **mobsf/mobsf**:
+
+![pivaa.apk](Imagenes/6.png)
+
+Una vez dentro le adjuntamos el archivo de **pivaa.apk** para realizar el análisis estático de la aplicación:
+
+![pivaa.apk](Imagenes/7.png)
+
+Una vez realizado el análisis, ya podemos consultar los datos y descargar un informe en pdf:
+
+![pivaa.apk](Imagenes/8.png)
