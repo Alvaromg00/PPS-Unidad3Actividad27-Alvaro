@@ -49,3 +49,8 @@ Una vez dentro le adjuntamos el archivo de **pivaa.apk** para realizar el análi
 Una vez realizado el análisis, ya podemos consultar los datos y descargar un informe en pdf:
 
 ![pivaa.apk](Imagenes/8.png)
+
+Dentro del informe podemos ver los resultados de este y vemos que clasifica la aplicación con un riesgo medio:
+
+![pivaa.apk](Imagenes/9.png)
+
