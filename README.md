@@ -54,3 +54,4 @@ Dentro del informe podemos ver los resultados de este y vemos que clasifica la a
 
 ![pivaa.apk](Imagenes/9.png)
 
+[Enlace al informe pdf](Informe/informe.pdf)
